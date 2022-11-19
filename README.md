@@ -1,0 +1,1 @@
+# Schneider Electric Hackathon - Zero deforestation mission
