@@ -1,8 +1,9 @@
 # Schneider Electric Hackathon - Zero Deforestation Mission
 
-This repository contains the code for the Schneider Electric European Hackathon. The following is a brief description of each of the folders of files.
+This repository contains the code for the Schneider Electric European Hackathon. The following is a brief description of each of the data files.
 
 | Path | Description |
 | ------ | ------ |
-| data | contains the training and test dataset, including the images |
-| notebooks | contains an example Jupyter Notebook and the main Jupyter Notebook with all analyses, model and results |
+| train.csv | contains some information and the path of training data |
+| test.csv | contains some information and the path of test data |
+| train_test_data/  | contains training and test images |
